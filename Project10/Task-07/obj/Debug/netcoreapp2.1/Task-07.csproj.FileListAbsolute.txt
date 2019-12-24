@@ -1,0 +1,11 @@
+C:\Users\esk-m\source\repos\Project10\Task-07\bin\Debug\netcoreapp2.1\Task-07.deps.json
+C:\Users\esk-m\source\repos\Project10\Task-07\bin\Debug\netcoreapp2.1\Task-07.runtimeconfig.json
+C:\Users\esk-m\source\repos\Project10\Task-07\bin\Debug\netcoreapp2.1\Task-07.runtimeconfig.dev.json
+C:\Users\esk-m\source\repos\Project10\Task-07\bin\Debug\netcoreapp2.1\Task-07.dll
+C:\Users\esk-m\source\repos\Project10\Task-07\bin\Debug\netcoreapp2.1\Task-07.pdb
+C:\Users\esk-m\source\repos\Project10\Task-07\obj\Debug\netcoreapp2.1\Task-07.csprojAssemblyReference.cache
+C:\Users\esk-m\source\repos\Project10\Task-07\obj\Debug\netcoreapp2.1\Task-07.csproj.CoreCompileInputs.cache
+C:\Users\esk-m\source\repos\Project10\Task-07\obj\Debug\netcoreapp2.1\Task-07.AssemblyInfoInputs.cache
+C:\Users\esk-m\source\repos\Project10\Task-07\obj\Debug\netcoreapp2.1\Task-07.AssemblyInfo.cs
+C:\Users\esk-m\source\repos\Project10\Task-07\obj\Debug\netcoreapp2.1\Task-07.dll
+C:\Users\esk-m\source\repos\Project10\Task-07\obj\Debug\netcoreapp2.1\Task-07.pdb

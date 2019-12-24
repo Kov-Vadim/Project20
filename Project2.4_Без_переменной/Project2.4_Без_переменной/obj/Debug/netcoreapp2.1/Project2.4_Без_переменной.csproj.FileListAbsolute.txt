@@ -1,0 +1,11 @@
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\bin\Debug\netcoreapp2.1\Project2.4_Без_переменной.deps.json
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\bin\Debug\netcoreapp2.1\Project2.4_Без_переменной.runtimeconfig.json
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\bin\Debug\netcoreapp2.1\Project2.4_Без_переменной.runtimeconfig.dev.json
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\bin\Debug\netcoreapp2.1\Project2.4_Без_переменной.dll
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\bin\Debug\netcoreapp2.1\Project2.4_Без_переменной.pdb
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\obj\Debug\netcoreapp2.1\Project2.4_Без_переменной.csprojAssemblyReference.cache
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\obj\Debug\netcoreapp2.1\Project2.4_Без_переменной.csproj.CoreCompileInputs.cache
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\obj\Debug\netcoreapp2.1\Project2.4_Без_переменной.AssemblyInfoInputs.cache
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\obj\Debug\netcoreapp2.1\Project2.4_Без_переменной.AssemblyInfo.cs
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\obj\Debug\netcoreapp2.1\Project2.4_Без_переменной.dll
+C:\Users\esk-m\source\repos\Project2.4_Без_переменной\Project2.4_Без_переменной\obj\Debug\netcoreapp2.1\Project2.4_Без_переменной.pdb

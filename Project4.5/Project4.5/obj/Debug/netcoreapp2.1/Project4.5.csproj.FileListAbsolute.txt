@@ -1,0 +1,10 @@
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\bin\Debug\netcoreapp2.1\Project4.5.deps.json
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\bin\Debug\netcoreapp2.1\Project4.5.runtimeconfig.json
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\bin\Debug\netcoreapp2.1\Project4.5.runtimeconfig.dev.json
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\bin\Debug\netcoreapp2.1\Project4.5.dll
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\bin\Debug\netcoreapp2.1\Project4.5.pdb
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\obj\Debug\netcoreapp2.1\Project4.5.csproj.CoreCompileInputs.cache
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\obj\Debug\netcoreapp2.1\Project4.5.AssemblyInfoInputs.cache
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\obj\Debug\netcoreapp2.1\Project4.5.AssemblyInfo.cs
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\obj\Debug\netcoreapp2.1\Project4.5.dll
+C:\Users\esk-m\source\repos\Project4.5\Project4.5\obj\Debug\netcoreapp2.1\Project4.5.pdb
